@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|solutionrelative:vaisseau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|d:\\etml\\i320 - poo\\github\\space invaders\\space-invaders-c_sharp\\space invaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|d:\\etml\\i320 - poo\\github\\space invaders\\space-invaders-c_sharp\\space invaders\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|solutionrelative:shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FF9028-785B-458A-BCB9-668739F99D2B}|Space Invaders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T08:01:54.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T08:01:54.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Shoot.cs",
               "DocumentMoniker": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Shoot.cs",
               "RelativeDocumentMoniker": "Shoot.cs",
@@ -77,9 +76,9 @@
               "Title": "Vaisseau.cs",
               "DocumentMoniker": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Vaisseau.cs",
               "RelativeDocumentMoniker": "Vaisseau.cs",
-              "ToolTip": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Vaisseau.cs*",
-              "RelativeToolTip": "Vaisseau.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwDYAAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\ETML\\I320 - POO\\GitHub\\Space Invaders\\Space-Invaders-C_sharp\\Space Invaders\\Vaisseau.cs",
+              "RelativeToolTip": "Vaisseau.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T13:51:52.297Z",
               "EditorCaption": ""
