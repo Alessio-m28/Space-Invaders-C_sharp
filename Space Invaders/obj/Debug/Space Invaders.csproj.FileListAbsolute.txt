@@ -1,0 +1,8 @@
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\bin\Debug\Space Invaders.exe.config
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\bin\Debug\Space Invaders.exe
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\bin\Debug\Space Invaders.pdb
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\obj\Debug\Space Invaders.csproj.AssemblyReference.cache
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\obj\Debug\Space Invaders.exe
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\obj\Debug\Space Invaders.pdb
+D:\ETML\I320 - POO\GitHub\Space Invaders\Space-Invaders-C_sharp\Space Invaders\obj\Debug\Space Invaders.exe.config
