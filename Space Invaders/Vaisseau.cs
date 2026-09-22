@@ -29,7 +29,7 @@ namespace Space_Invaders
         {
             var key = Console.ReadKey(true).Key;
 
-            if (key == ConsoleKey.D)
+            if (key == ConsoleKey.D || key == ConsoleKey.RightArrow)
             {
                 move++;
 
@@ -39,7 +39,7 @@ namespace Space_Invaders
                     move = 0;
                 }
             }
-            else if (key == ConsoleKey.A)
+            else if (key == ConsoleKey.A || key == ConsoleKey.LeftArrow)
             {
                 move--;
 
